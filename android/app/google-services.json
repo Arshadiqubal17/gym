@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "351811441995",
+    "firebase_url": "https://cloudmessagetrying-default-rtdb.firebaseio.com",
+    "project_id": "cloudmessagetrying",
+    "storage_bucket": "cloudmessagetrying.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351811441995:android:ba6319fd1b48a2429304ce",
+        "android_client_info": {
+          "package_name": "com.arshad17.projectC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351811441995-lnl0aqf8ru7bjc29mqg6o1404o7gtfh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYhSLeuRb90iZHf9BPkmjTyNHxIRpewE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351811441995-aa456s033gtk4velu7atkhq2mvdsn6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351811441995:android:a906ebddd71577399304ce",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351811441995-lnl0aqf8ru7bjc29mqg6o1404o7gtfh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYhSLeuRb90iZHf9BPkmjTyNHxIRpewE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351811441995-aa456s033gtk4velu7atkhq2mvdsn6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351811441995:android:6f7a0b8e310fd6439304ce",
+        "android_client_info": {
+          "package_name": "com.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351811441995-lnl0aqf8ru7bjc29mqg6o1404o7gtfh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYhSLeuRb90iZHf9BPkmjTyNHxIRpewE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351811441995-aa456s033gtk4velu7atkhq2mvdsn6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
