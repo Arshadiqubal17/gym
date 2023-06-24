@@ -65,7 +65,7 @@ const ResetEmail = () => {
   };
 
   return (
-    <View style={{ marginTop: 80 }}>
+    <View style={{ marginTop: 40 }}>
       <TouchableOpacity style={styles.butt} onPress={handlePress}>
         <Text style={{ color: 'white', fontSize: 18 }}>Forget Password</Text>
       </TouchableOpacity>
@@ -75,14 +75,14 @@ const ResetEmail = () => {
 
 const styles = StyleSheet.create({
   butt: {
-    marginTop: 15,
-    width: 300,
+    
+    width: 280,
     height: 60,
     backgroundColor: '#e32772',
     borderRadius: 15,
     justifyContent: 'center',
     alignItems: 'center',
-    marginLeft: 45,
+    marginLeft: 40,
   },
 });
 

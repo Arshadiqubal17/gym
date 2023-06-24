@@ -41,24 +41,7 @@ const Signin= ({navigation}) => {
         .then((d)=>{
             console.log("account created successfully",d);
            
-           
-            
-
-                updateProfile(auth.currentUser, {
-                    displayName: name, photoURL: imgUrl
-                  }).then(() => {
-                    // Profile updated!
-                    // ...
-                    // const updatedUser = auth.currentUser;
-                    // setProfile({
-                    //     displayName: updatedUser.displayName,
-                    //     photoURL: updatedUser.photoURL
-                    //   });
-                    
-                  }).catch((error) => {
-                    // An error occurred
-                    // ...
-                  });
+        
 
 
          
@@ -77,7 +60,7 @@ const Signin= ({navigation}) => {
 
    return(
     
-    <View style={{marginTop:60}}> 
+    <View style={{marginTop:0}}> 
    
       {/* <TouchableOpacity onPress={logout} style={{alignItems:'center'}}>
        <Text style={styles.butt}>Sign out   </Text>
@@ -141,20 +124,22 @@ const styles = StyleSheet.create({
       margin: 12,
       borderWidth: 1,
       padding: 10,
-      width: 350,
+      width: 300,
       borderRadius: 15,
-      color:'red',
-      marginLeft:30,
+      color:'black',
+      marginLeft:20,
+      
     },
     butt:{
       marginTop: 15,
-      width: 300,
-      height: 60,
-      backgroundColor: '#e32772',
-      borderRadius: 15,
-      justifyContent: 'center',
-      alignItems: 'center',
-      marginLeft:45
+     
+      width: 280,
+    height: 60,
+    backgroundColor: '#e32772',
+    borderRadius: 15,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginLeft: 40,
     }
   });
 

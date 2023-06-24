@@ -55,7 +55,7 @@ input: {
   },
   butt:{
     marginTop: 15,
-    width: 300,
+    width: 280,
     height: 60,
     backgroundColor: '#e32772',
     borderRadius: 15,
